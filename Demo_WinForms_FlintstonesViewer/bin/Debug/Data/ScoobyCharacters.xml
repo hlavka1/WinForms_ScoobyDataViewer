@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Characters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Character>
+    <Id>1</Id>
+    <FirstName>Fred</FirstName>
+    <LastName>Jones</LastName>
+    <Age>18</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>FredJones.png</ImageFileName>
+    <Description>
+      Handsome, blond, stalwart, and a bit square, Fred is ostensibly the leader of Mystery, Inc., and the gang's anchor, striving at all times to keep everyone focused on the latest task. He is also the biggest skeptic about ghosts and monsters, and he is always searching for a natural explanation to the seemingly supernatural goings-on.
+    </Description>
+  </Character>
+  <Character>
+    <Id>2</Id>
+    <FirstName>Daphne</FirstName>
+    <LastName>Blake</LastName>
+    <Age>17</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>DaphneBlake.png</ImageFileName>
+    <Description>
+      "Danger-prone Daphne" has a knack for falling into trouble and requiring rescue. A beauty queen-type and fashion plate, Daphne comes from a wealthy family -- in fact, it is her father's money that outfits the gang with such equipment as the Mystery Machine, the 1960s-era hippie van that provides Scooby and company their transportation.
+    </Description>
+  </Character>
+  <Character>
+    <Id>3</Id>
+    <FirstName>Velma</FirstName>
+    <LastName>Dinkley</LastName>
+    <Age>16</Age>
+    <Gender>Female</Gender>
+    <ImageFileName>VelmaDinkley.png</ImageFileName>
+    <Description>
+      Short, bespectacled, and tomboyish, Velma is the brains of the Scooby gang. More often than not, she puts clue-and-clue together to come up with a solution to the mystery. Because of her bookish nature, Velma is a veritable font of knowledge, though her youthful innocence is best reflected by her favorite expression, "Jinkies!"
+    </Description>
+  </Character>
+  <Character>
+    <Id>4</Id>
+    <FirstName>Shaggy</FirstName>
+    <LastName>Rogers</LastName>
+    <Age>19</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>ShaggyRogers.png</ImageFileName>
+    <Description>
+      Norville "Shaggy" Rogers is Scooby-Doo's closest friend. A carefree, beatnik-ish teenager, Shaggy shares Scooby's cowardliness, his whimsy, and his ravenous appetite. In the long run, he can always be counted on to overcome his fear and confront danger with a hearty cry of "Zoinks!"
+    </Description>
+  </Character>
+  <Character>
+    <Id>5</Id>
+    <FirstName>Scooby</FirstName>
+    <LastName>Doo</LastName>
+    <Age>4</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>ScoobyDoo.png</ImageFileName>
+    <Description>
+      Jovial and fun-loving, and just human enough to be understood, Scooby-Doo is by nature a chicken-heart. When pressed, however, he always comes through with a sense of whimsical bravery. If this Great Dane cannot run away from a villain, he will try to trick him or her by using an outrageous disguise. Perhaps his most pronounced characteristic is his passion for "Scooby Snacks," or just about any other kind of food.
+    </Description>
+  </Character>
+  <Character>
+    <Id>6</Id>
+    <FirstName>Scrappy</FirstName>
+    <LastName>Doo</LastName>
+    <Age>2</Age>
+    <Gender>Male</Gender>
+    <ImageFileName>ScrappyDoo.png</ImageFileName>
+    <Description>
+      If one were to shrink down Scooby-Doo physically and inject him with a double-dose of courage and feistiness, the end result would be Scrappy-Doo, Scooby's diminutive nephew. Whereas Scooby tries to run away from danger as rapidly as possible, the impetuous Scrappy dives into it headlong.
+    </Description>
+  </Character>
+</Characters>
